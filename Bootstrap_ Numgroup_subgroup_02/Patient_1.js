@@ -18,7 +18,3 @@ this.SH = sh;
 }
 let Ivanov = new Patient('Иванов', 'Иван', 'Иванович', new Date(1980, 6, 10), "м", "Назначено");
 Ivanov.setById();
-let Petrov = new Patient('Петров', 'Пётр', 'Петрович', new Date(1981, 96, 104), "м", "Исполено");
-Ivanov.setById();
-let Sidorov = new Patient('Сидоров', 'Сидор', 'Сидорович', new Date(1460, 67, 160), "м", "Медотвод");
-Ivanov.setById();
